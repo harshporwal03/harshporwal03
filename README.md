@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Harsh Porwal</h1>
+<h1 align="center">Hey 👋, I'm Harsh</h1>
+<p align="center">
+        <a href="https://longtao.fun">
+            <img src="cat.webp" width="50"/>
+        </a>
+</p>
 <h3 align="center">Aspiring Web Developer | B.Tech CSE Student | Passionate About Coding, Web Technologies, and Problem Solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshporwal03&label=Profile%20views&color=0e75b6&style=flat" alt="harshporwal03" /> </p>
