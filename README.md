@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Harsh</h1>
 <p align="center">
-        <a href="https://longtao.fun">
-            <img src="cat.webp" width="50"/>
-        </a>
+ <img src="cat.webp" width="50"/>
 </p>
 <h3 align="center">Aspiring Web Developer | B.Tech CSE Student | Passionate About Coding, Web Technologies, and Problem Solving</h3>
 
