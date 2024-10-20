@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshporwal03" alt="harshporwal03" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, CSS, JavaScript**
 
